@@ -8,11 +8,11 @@
         <version>2.7.13</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>com.max</groupId>
     <artifactId>mem</artifactId>
     <version>0.0.1</version>
     <name>00-memory-auth-demo</name>
-    <description>00-memory-auth-demo</description>
+    <description>00-memory-auth</description>
     <properties>
         <java.version>17</java.version>
     </properties>
